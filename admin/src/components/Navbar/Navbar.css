@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  align-items: center;
+  padding: 8px 4%;
+}
+.navbar .logo {
+  width: max(10%, 80px);
+}
+.navbar .profile {
+  width: 40px;
+}
+.login-conditon {
+  font-size: 20px;
+}
+.logo {
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: 800;
+  color: tomato;
+  position: relative;
+  margin-left: 10px;
+}
+.admin {
+  position: absolute;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 1px;
+
+  color: tomato;
+}
