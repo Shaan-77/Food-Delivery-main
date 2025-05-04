@@ -1,6 +1,7 @@
-![Screenshot (73)](https://github.com/user-attachments/assets/be4e1235-7604-4dcf-893d-7cba7abef2ad)![Screenshot (83)](https://github.com/user-attachments/assets/b5b38710-9a87-4368-9a1e-12cb8f4b0c05)# tomato - Food Ordering Website
 
-This repository hosts the source code for tomato, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
+<img src="./food-delivery.png" alt="Zubee Logo" width="150"/>
+Zubee is a modern, responsive food delivery web application that lets users browse local restaurants, explore menus, place orders, and enjoy meals delivered quickly to their doorstep
+
 
 ## Demo
 
