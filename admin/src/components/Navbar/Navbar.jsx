@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div>
-        <img src="./public/food-delivery.png" alt="" height={40} width={40} />
+        <img src={"/food-delivery.png"} alt="" height={40} width={40} />
         <span className="logo">Zubee.</span>
         <br />
         <span className="admin">Admin panel.</span>
