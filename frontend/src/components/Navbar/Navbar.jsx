@@ -19,12 +19,7 @@ const Navbar = ({ setShowLogin }) => {
   return (
     <div className="navbar">
       <Link to="/">
-        <img
-          src={"../src/assets/food-delivery.png"}
-          alt=""
-          height={40}
-          width={40}
-        />
+        <img src={"/food-delivery.png"} alt="" height={40} width={40} />
         <span className="logo">Zubee.</span>
       </Link>
       <ul className="navbar-menu">
