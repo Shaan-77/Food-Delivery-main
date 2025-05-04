@@ -1,6 +1,5 @@
-
-<img src="./food-delivery.png" alt="Zubee Logo" width="150"/>
-Zubee is a modern, responsive food delivery web application that lets users browse local restaurants, explore menus, place orders, and enjoy meals delivered quickly to their doorstep
+🍔 Zubee – Online Food Delivery Website
+Zubee is a responsive and user-friendly food delivery web application that allows users to browse restaurants, view menus, place online orders, and get food delivered to their doorstep.
 
 
 ## Demo
