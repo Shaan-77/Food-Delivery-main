@@ -20,7 +20,7 @@ const Navbar = ({ setShowLogin }) => {
     <div className="navbar">
       <Link to="/">
         <img
-          src={"./src/assets/food-delivery.png"}
+          src={"../src/assets/food-delivery.png"}
           alt=""
           height={40}
           width={40}
