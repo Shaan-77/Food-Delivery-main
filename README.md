@@ -5,7 +5,7 @@ Zubee is a responsive and user-friendly food delivery web application that allow
 
 ## Demo
 
-- User Panel: [https://food-delivery-main-frontend-dzea.onrender.com/](https://food-delivery-main-frontend-dzea.onrender.com/)
+- User Panel: [https://food-delivery-main-frontend-dzea.onrender.com/](https://food-delivery-main-frontend-dzea.onrender.com)
 - Admin Panel: [https://food-delivery-main-admin-hdnn.onrender.com/](https://food-delivery-main-admin-hdnn.onrender.com/)
 
 ## Features
